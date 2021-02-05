@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Goroskop", "Goroskop.pyproj", "{71D62D9B-A646-4CE9-822B-F4E7929A7DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D62D9B-A646-4CE9-822B-F4E7929A7DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D62D9B-A646-4CE9-822B-F4E7929A7DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {904DA9DC-A2BD-43B9-B90E-CE5003C8A5C0}
+	EndGlobalSection
+EndGlobal
