@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 from tkinter.filedialog import *
 import fileinput
 from tkinter.messagebox import *
-
+import random
 
 
 def funktion(a):
@@ -106,7 +106,9 @@ def image_car(name):
 root=Tk()
 root.geometry("700x300")
 root.title("Гороскоп")
-root.iconbitmap(r'iconocka.ico')
+
+iconki=["iconocka.ico","icon.ico","iconka.ico"]
+root.iconbitmap(random.choice(iconki))
 
 tabs=ttk.Notebook(root)
 
