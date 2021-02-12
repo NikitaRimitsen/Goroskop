@@ -107,7 +107,7 @@ root=Tk()
 root.geometry("700x300")
 root.title("Гороскоп")
 
-iconki=["iconocka.ico","icon.ico","iconka.ico"]
+iconki=["iconocka.ico","iconka.ico"]
 root.iconbitmap(random.choice(iconki))
 
 tabs=ttk.Notebook(root)

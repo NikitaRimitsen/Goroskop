@@ -1,0 +1,9 @@
+Number oli 1, päev on esmapäev
+Number oli 4, päev on neljapäev
+Number oli 7, päev on pühapäev
+Number oli 6, päev on laupäev
+Number oli 5, päev on reede
+Number oli 2, päev on teisipäev
+Number oli 4, päev on neljapäev
+Number oli 3, päev on kolmapäev
+Number oli 7, päev on pühapäev
